@@ -1,0 +1,12 @@
+.boxStyle{
+    max-width: fit-content;
+    height: 100%;
+}
+body{
+    background-color: blanchedalmond;
+}
+.root{
+    display: flex;
+    justify-content: center;
+    margin-top: 25vh;
+}
